@@ -1,3 +1,3 @@
 # Table of contents
 
-* [GoogleCalendarBot](README.md)
+* [🗓️ GoogleCalendarBot](README.md)

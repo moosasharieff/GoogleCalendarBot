@@ -2,7 +2,13 @@
 description: Automates your calendar management tasks and improves their productivity.
 ---
 
-# GoogleCalendarBot
+# 🗓️ GoogleCalendarBot
+
+### Quick Links <a href="#https-mohammeds-organization-9.gitbook.io-google-calendar-bot" id="https-mohammeds-organization-9.gitbook.io-google-calendar-bot"></a>
+
+[Read Document in GitBook](https://mohammeds-organization-9.gitbook.io/google-calendar-bot/)
+
+***
 
 ### Description
 
